@@ -106,15 +106,14 @@ Estadísticas:
 
 
 📄 Documentación
-
+https://github.com/SebaMolina1/TPI-Paises-Python/blob/19113d14c8cd33bad181ce0c1c7495a520783646/Trabajo%20Integrador%20Programacion%20Informe.%20Grupo%20155.pdf
 
 
 🎥 Video demostración
 
-
+https://youtu.be/E4gK3pGTKDo
 
 📚 Tecnologías utilizadas
-
 
 Python 3.x — Lenguaje principal
 Módulo csv — Lectura y escritura de archivos CSV
